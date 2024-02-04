@@ -15,7 +15,7 @@
   },
   "unidbg": {
     "dynarmic": false,
-    "unicorn": true,
+    "unicorn": false,
     "kvm": true,
     "debug": false
   },
